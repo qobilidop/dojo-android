@@ -2,6 +2,7 @@
 
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -10,12 +11,20 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/result_text"
+        android:id="@+id/dice_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:textSize="30sp"
         android:text="Hello World!" />
+
+    <ImageView
+        android:id="@+id/dice_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/empty_dice"
+        tools:src="@drawable/dice_1" />
 
     <Button
         android:id="@+id/roll_button"
@@ -25,17 +34,17 @@
         android:text="@string/roll_label" />
 
     <Button
-        android:id="@+id/count_up_button"
+        android:id="@+id/cheat_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="@string/count_up_label" />
+        android:text="@string/cheat_label" />
 
     <Button
-        android:id="@+id/reset_button"
+        android:id="@+id/clear_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="@string/reset_label" />
+        android:text="@string/clear_label" />
 
 </LinearLayout>
