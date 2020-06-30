@@ -8,4 +8,7 @@ This is my workspace for the course. I'm building all the apps from scratch, and
 - [Solution Apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
 
 ## App List
-- 1.1 HelloWorld
+- HelloWorld
+    [1.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-get-started)
+- DiceRoller
+    [1.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-app-anatomy)
