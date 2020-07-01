@@ -1,11 +1,11 @@
 # Android Kotlin Fundamentals
 
-This is my workspace for the course. I'm building all the apps from scratch and only use the given starter and solution apps as reference. I might not follow the instructions line by line, but instead, work on the apps to the extent I'm personally satisfied with.
+This is my personal workspace for the course. For official course materials, refer to the links below. I'm building those apps from scratch with potential improvisations.
 
 ## Links
-- [Course Overview](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
-- [Starter Apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
-- [Solution Apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
+- [Course overview](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+- [Starter apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps)
+- [Solution apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps)
 
 ## Apps
 - HelloWorld
