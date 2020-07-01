@@ -13,3 +13,7 @@ This is my workspace for the course. I'm building all the apps from scratch and 
 - DiceRoller
     [1.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-app-anatomy)
     [1.3](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat)
+- AboutMe
+    [2.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout)
+    [2.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity)
+    [2.4](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics)
