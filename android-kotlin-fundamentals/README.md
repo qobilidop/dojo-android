@@ -17,3 +17,6 @@ This is my personal workspace for the course. For official course materials, ref
     [2.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout)
     [2.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity)
     [2.4](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics)
+- AndroidTrivia
+    [3.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment)
+    [3.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation)
