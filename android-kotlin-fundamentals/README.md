@@ -21,3 +21,5 @@ This is my personal workspace for the course. For official course materials, ref
     [3.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment)
     [3.2](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation)
     [3.3](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity)
+- GuessTheWord
+    [5.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model)
