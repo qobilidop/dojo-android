@@ -33,3 +33,4 @@ This is my personal workspace for the course. For official course materials, ref
     - [ ] [05.4: LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations)
 - TrackMySleepQuality
     - [x] [06.1: Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database)
+    - [x] [06.2: Coroutines and Room](https://codelabs.developers.google.com/codelabs/kotlin-android-training-coroutines-and-room)
