@@ -24,3 +24,4 @@ This is my personal workspace for the course. For official course materials, ref
 - GuessTheWord
     - [5.1](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model)
     - [05.2: LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data)
+    - [05.3: Data binding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding)
