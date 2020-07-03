@@ -31,3 +31,5 @@ This is my personal workspace for the course. For official course materials, ref
     - [x] [05.2: LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data)
     - [x] [05.3: Data binding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding)
     - [ ] [05.4: LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations)
+- TrackMySleepQuality
+    - [x] [06.1: Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database)
